@@ -1,5 +1,3 @@
-# Program 2
-
 # Q. WAP to accept a number 'n' to compute the following
 
 # a. Check if 'n' is prime or not.

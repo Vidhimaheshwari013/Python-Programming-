@@ -1,4 +1,3 @@
-# Program 4
 # Q. WAP that accepts a character and performs the following.
 - a. print whether the character is a letter or numeric digit or a special 
 character.

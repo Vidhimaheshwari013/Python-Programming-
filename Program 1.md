@@ -1,4 +1,3 @@
-# Program 1
 # Q. WAP to find roots of quadratic equation.  
 
 # CODE
